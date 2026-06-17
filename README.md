@@ -1,4 +1,4 @@
-# Hi, im MOnish 
+# Hi, im Monish 
 
 I'm a Computer Science student who enjoys learning by building projects and improving through practice.
 
