@@ -12,7 +12,10 @@
 ---
 
 ## 🙋 About me
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDUzaHBndHhuNWoxenc1NzBzNTN6c3JvcHl1bmJraTQ0ajQ0MWw1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qek0hd3NUGJPEBvvzK/giphy.gif" height="125">
 
+<div align="left">
+  
 ```javascript
 const monish = {
   role: "CS Undergraduate",
@@ -20,6 +23,7 @@ const monish = {
   motto: "Keep learning and improving every day 🌱"
 };
 ```
+</div>
 
 ---
 
